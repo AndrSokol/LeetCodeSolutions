@@ -1,4 +1,4 @@
-package com.easy.jewelsandstones;
+package com.easy._771_jewelsandstones;
 
 import java.util.HashSet;
 
