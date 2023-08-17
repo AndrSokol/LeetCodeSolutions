@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee0e525c-ef97-4a3a-8ab7-f8961ef392e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/easy/IPAddress_1108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/easy/_1342_StepstoReduceaNumbertoZero/ReduceANumberToZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/easy/_1431_kidscandies/KidsCandiesSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/easy/_938_rangesumofBST/RangeSumOfBST.java" afterDir="false" />
+    <list default="true" id="ee0e525c-ef97-4a3a-8ab7-f8961ef392e4" name="Default Changelist" comment="started algo course">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/IsSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/MergeArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/ReverseStringInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/SortedSquareArray_977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/easy/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/jewelsandstones/JevelsAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/easy/_771_jewelsandstones/JevelsAndStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/twosum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/easy/twosum/TwoSum.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,41 +33,48 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": -1
+}]]></component>
   <component name="ProjectId" id="1aTYwVS9uW88R75UUHT2KsmKFsW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/easy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algocource.arraysandstrings" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ReduceANumberToZero">
-    <configuration name="BuddyStringBetterSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.buddystrings.BuddyStringBetterSolution" />
-      <module name="LeetCode" />
+  <component name="RunManager" selected="Application.SortedSquareArray_977">
+    <configuration name="IsSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algocource.arraysandstrings.IsSubstring" />
+      <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.buddystrings.*" />
+          <option name="PATTERN" value="algocource.arraysandstrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuddyStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.buddystrings.BuddyStrings" />
-      <module name="LeetCode" />
+    <configuration name="MergeArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algocource.arraysandstrings.MergeArrays" />
+      <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.buddystrings.*" />
+          <option name="PATTERN" value="algocource.arraysandstrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,9 +95,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IPAddress_1108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easy.IPAddress_1108" />
-      <module name="LeetCode" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.easy.Palindrome" />
+      <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.easy.*" />
@@ -96,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KidsCandiesSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easy._1431_kidscandies.KidsCandiesSolution" />
-      <module name="LeetCode" />
+    <configuration name="ReverseStringInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algocource.arraysandstrings.ReverseStringInArray" />
+      <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easy._1431_kidscandies.*" />
+          <option name="PATTERN" value="algocource.arraysandstrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReduceANumberToZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easy._1342_StepstoReduceaNumbertoZero.ReduceANumberToZero" />
-      <module name="LeetCode" />
+    <configuration name="SortedSquareArray_977" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algocource.arraysandstrings.SortedSquareArray_977" />
+      <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easy._1342_StepstoReduceaNumbertoZero.*" />
+          <option name="PATTERN" value="algocource.arraysandstrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,14 +136,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReduceANumberToZero" />
-        <item itemvalue="Application.KidsCandiesSolution" />
-        <item itemvalue="Application.IPAddress_1108" />
-        <item itemvalue="Application.BuddyStringBetterSolution" />
-        <item itemvalue="Application.BuddyStrings" />
+        <item itemvalue="Application.SortedSquareArray_977" />
+        <item itemvalue="Application.ReverseStringInArray" />
+        <item itemvalue="Application.IsSubstring" />
+        <item itemvalue="Application.MergeArrays" />
+        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -142,6 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586761289532</updated>
+      <workItem from="1691759421847" duration="14320000" />
     </task>
     <task id="LOCAL-00001" summary="removed target">
       <created>1586857755786</created>
@@ -160,14 +174,15 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -176,7 +191,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="removed target" />
     <MESSAGE value="added gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="added gitignore" />
+    <MESSAGE value="started algo course" />
+    <option name="LAST_COMMIT_MESSAGE" value="started algo course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -185,6 +201,35 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/easy/_1342_StepstoReduceaNumbertoZero/ReduceANumberToZero.java</url>
           <line>25</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/MergeArrays.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/MergeArrays.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/ReverseStringInArray.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/SortedSquareArray_977.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/MergeArrays.java</url>
+          <line>5</line>
+          <properties class="algocource.arraysandstrings.MergeArrays" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
