@@ -5,15 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee0e525c-ef97-4a3a-8ab7-f8961ef392e4" name="Default Changelist" comment="started algo course">
-      <change afterPath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/IsSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/MergeArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/ReverseStringInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/SortedSquareArray_977.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/easy/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/prefix/KRadiusSubarrayAverages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/prefix/MinimumValueToGetPositiveStepByStepSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/prefix/NumberOfWaysToSplitArray_2270.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/prefix/SumOfIndexesTrueFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/FindSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/LongestSubArrayWithOne0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/MaxConsecutiveOnesIII_703.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/MaximumAverageSubarray_603.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/SubarrayProductLessThanK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/SumOfASubArrWithLengthK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/hashing/FindNPlusMinusOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/hashing/SubstringWithMostDistinctChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/arraysandstrings/ReverseWordsInStringIII_557.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/hashing/CountingElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/hashing/FirstLetterToAppearTwice_2351.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/hashing/IfSentenceIsPangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/hashing/MissingNumber_268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/medium/MinimumSizeSubarraySum_209.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/twosum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/easy/twosum/TwoSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/IsSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/twopointers/IsSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/MergeArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/twopointers/MergeArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/ReverseStringInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/twopointers/ReverseStringInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/SortedSquareArray_977.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/twopointers/SortedSquareArray_977.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/IPAddress_1108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/old/IPAddress_1108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/old/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/_1342_StepstoReduceaNumbertoZero/ReduceANumberToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/old/_1342_StepstoReduceaNumbertoZero/ReduceANumberToZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/_1431_kidscandies/KidsCandiesSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/old/_1431_kidscandies/KidsCandiesSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/_771_jewelsandstones/JevelsAndStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/old/_771_jewelsandstones/JevelsAndStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/_938_rangesumofBST/RangeSumOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/old/_938_rangesumofBST/RangeSumOfBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/buddystrings/BuddyStringBetterSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/old/buddystrings/BuddyStringBetterSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/buddystrings/BuddyStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/old/buddystrings/BuddyStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/easy/twosum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/hashing/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,42 +63,42 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="1aTYwVS9uW88R75UUHT2KsmKFsW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algocource.arraysandstrings.slidingwindow" />
       <recent name="algocource.arraysandstrings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortedSquareArray_977">
-    <configuration name="IsSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algocource.arraysandstrings.IsSubstring" />
+  <component name="RunManager" selected="Application.SubstringWithMostDistinctChars">
+    <configuration name="CountingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.solutions.easy.hashing.CountingElements" />
       <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algocource.arraysandstrings.*" />
+          <option name="PATTERN" value="leetcode.solutions.easy.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algocource.arraysandstrings.MergeArrays" />
+    <configuration name="FindNPlusMinusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.algocource.hashing.FindNPlusMinusOne" />
       <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algocource.arraysandstrings.*" />
+          <option name="PATTERN" value="leetcode.algocource.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.easy.Palindrome" />
+    <configuration name="IfSentenceIsPangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.solutions.easy.hashing.IfSentenceIsPangram" />
       <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.easy.*" />
+          <option name="PATTERN" value="leetcode.solutions.easy.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algocource.arraysandstrings.ReverseStringInArray" />
+    <configuration name="MissingNumber_268" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.solutions.easy.hashing.MissingNumber_268" />
       <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algocource.arraysandstrings.*" />
+          <option name="PATTERN" value="leetcode.solutions.easy.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedSquareArray_977" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algocource.arraysandstrings.SortedSquareArray_977" />
+    <configuration name="SubstringWithMostDistinctChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.algocource.hashing.SubstringWithMostDistinctChars" />
       <module name="LeetCodeProblems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algocource.arraysandstrings.*" />
+          <option name="PATTERN" value="leetcode.algocource.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortedSquareArray_977" />
-        <item itemvalue="Application.ReverseStringInArray" />
-        <item itemvalue="Application.IsSubstring" />
-        <item itemvalue="Application.MergeArrays" />
-        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.SubstringWithMostDistinctChars" />
+        <item itemvalue="Application.CountingElements" />
+        <item itemvalue="Application.MissingNumber_268" />
+        <item itemvalue="Application.IfSentenceIsPangram" />
+        <item itemvalue="Application.FindNPlusMinusOne" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +180,9 @@
       <option name="presentableId" value="Default" />
       <updated>1586761289532</updated>
       <workItem from="1691759421847" duration="14320000" />
+      <workItem from="1692292607454" duration="6758000" />
+      <workItem from="1693226036789" duration="24978000" />
+      <workItem from="1693562322207" duration="25709000" />
     </task>
     <task id="LOCAL-00001" summary="removed target">
       <created>1586857755786</created>
@@ -198,34 +225,99 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/easy/_1342_StepstoReduceaNumbertoZero/ReduceANumberToZero.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/old/_1342_StepstoReduceaNumbertoZero/ReduceANumberToZero.java</url>
           <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/MergeArrays.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/twopointers/MergeArrays.java</url>
           <line>45</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/MergeArrays.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/twopointers/MergeArrays.java</url>
           <line>22</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/ReverseStringInArray.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/twopointers/ReverseStringInArray.java</url>
           <line>19</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/SortedSquareArray_977.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/twopointers/SortedSquareArray_977.java</url>
           <line>21</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/FindSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/FindSum.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/LongestSubArrayWithOne0.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/SubarrayProductLessThanK.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/SumOfASubArrWithLengthK.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/MaximumAverageSubarray_603.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/slidingwindow/MaximumAverageSubarray_603.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/prefix/SumOfIndexesTrueFalse.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/solutions/easy/arraysandstrings/ReverseWordsInStringIII_557.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/solutions/medium/MinimumSizeSubarraySum_209.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/solutions/medium/MinimumSizeSubarraySum_209.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/solutions/medium/MinimumSizeSubarraySum_209.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/hashing/FindNPlusMinusOne.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/algocource/arraysandstrings/MergeArrays.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/algocource/arraysandstrings/twopointers/MergeArrays.java</url>
           <line>5</line>
-          <properties class="algocource.arraysandstrings.MergeArrays" method="main">
+          <properties class="leetcode.algocource.arraysandstrings.twopointers.MergeArrays" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
