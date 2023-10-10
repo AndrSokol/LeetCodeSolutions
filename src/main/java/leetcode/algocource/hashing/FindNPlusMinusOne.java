@@ -1,9 +1,6 @@
 package leetcode.algocource.hashing;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class FindNPlusMinusOne {
 //    Given an integer array nums, find all the numbers x in nums that satisfy the following:
@@ -25,6 +22,7 @@ public class FindNPlusMinusOne {
         }
 
         List<Integer> resList = new ArrayList<>();
+
         for (int i = 0; i < length; i++) {
             int elementPlusOne = nums[i] + 1;
             int elementMinusOne = nums[i] - 1;
