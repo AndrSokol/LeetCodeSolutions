@@ -11,8 +11,26 @@ public class ReverseWordsInStringIII_557 {
         System.out.println(res);
     }
 
+    // Recall
+    private static String reverseWords(String str) {
+        String[] words = str.split(" ");
+        StringBuilder sb = new StringBuilder();
+        char first, last;
+        for (int i = 0; i < words.length; i++) {
+            char[] newWord = new char[words[i].length()];
 
-    private static String reverseWords(String s) {
+            for (int j = 0; j <= newWord.length / 2; j++) {
+                first = words[i].charAt(j);
+                last = words[i].charAt(newWord.length - 1 - j);
+                newWord[j] = last;
+                newWord[newWord.length - 1 - j] = first;
+            }
+            sb.append(newWord).append(" ");
+        }
+        return sb.toString().trim();
+    }
+
+    private static String reverseWords2(String s) {
         StringBuilder resStrBuilder = new StringBuilder();
 
         int left = 0;

@@ -1,5 +1,7 @@
 package leetcode.algocource.arraysandstrings.twopointers;
 
+import java.util.Arrays;
+
 public class SortedSquareArray_977 {
 
     // https://leetcode.com/problems/squares-of-a-sorted-array/submissions/
@@ -11,7 +13,29 @@ public class SortedSquareArray_977 {
         }
     }
 
+    // Recall
     private static int[] squareAndSort(int[] nums) {
+        int lPointer = 0;
+        int rPointer = nums.length - 1;
+
+        int[] resArr = new int[nums.length];
+        int i = 0;
+
+        while (lPointer <= rPointer) {
+            if (Math.abs(nums[lPointer]) < Math.abs(nums[rPointer])) {
+                resArr[resArr.length - 1 - i] = nums[rPointer] * nums[rPointer];
+                rPointer--;
+            } else {
+                resArr[resArr.length - 1 - i] = nums[lPointer] * nums[lPointer];
+                lPointer++;
+            }
+            i++;
+        }
+        return resArr;
+    }
+
+
+    private static int[] squareAndSort2(int[] nums) {
         int pointerL = 0;
         int pointerR = nums.length - 1;
 

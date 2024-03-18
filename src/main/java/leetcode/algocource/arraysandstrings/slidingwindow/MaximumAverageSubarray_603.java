@@ -1,5 +1,6 @@
 package leetcode.algocource.arraysandstrings.slidingwindow;
 
+// https://leetcode.com/problems/maximum-average-subarray-i/
 public class MaximumAverageSubarray_603 {
     public static void main(String[] args) {
         int[] nums = {1,12,-5,-6,50,3};
@@ -8,7 +9,23 @@ public class MaximumAverageSubarray_603 {
         System.out.println(res);
     }
 
+    //Recall
     private static double findAverageInSubArrLengthK(int[] nums, int k) {
+        double currSum = 0;
+        for (int i = 0; i < k; i++) {
+            currSum += nums[i];
+        }
+        double maxSum = currSum;
+
+        for (int right = k; right < nums.length; right++) {
+            currSum += nums[right] - nums[right - k];
+            maxSum = Math.max(currSum, maxSum);
+        }
+        return maxSum / k;
+    }
+
+
+    private static double findAverageInSubArrLengthK2(int[] nums, int k) {
         double currSum = 0;
         for (int i = 0; i < k; i++) {
             currSum += nums[i];
